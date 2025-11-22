@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Hideaki Umeki – Data Science & Consulting"
+title: "Hideaki Umeki – Data Science & Engineering"
 permalink: /
 header:
   overlay_color: "#000"
@@ -11,9 +11,8 @@ header:
       url: "/contact/"
 intro:
   - excerpt: >
-      データ分析・機械学習コンペ・AWSアーキテクチャ設計の経験を活かして、
-      ビジネス課題を定量的に整理し、実行可能な打ち手へと落とし込む
-      データコンサルタントとして活動しています。
+      マネージャとして、自社のデータ活用推進に向けたデータ可視化、活用、人材育成を推進
+    　データ分析・機械学習コンペ・AWSアーキテクチャ設計の経験を活かして、エンジニア×マネジメントの両立を目指してます
 feature_row:
   - title: "Profile"
     excerpt: "これまでの経歴・担当プロジェクト・得意領域をご紹介します。"
