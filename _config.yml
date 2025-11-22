@@ -36,4 +36,38 @@ author:
 # ページコレクション設定（_pages を有効化）
 collections:
   pages:
-    o
+    output: true
+    permalink: /:path/
+
+# デフォルト設定（pages に single レイアウト＋author_profile を適用）
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+# ナビゲーションやUI
+paginate: 5
+paginate_path: "/page:num/"
+
+# 検索やフィードなどの機能（必要に応じて）
+search: true
+search_full_content: true
+
+# GitHub Pages で許可されているプラグインのみ使用:contentReference[oaicite:2]{index=2}
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-sitemap
+
+# フッターなど（簡略版）
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/hyde8167"
+    - label: "X"
+      icon: "fab fa-fw fa-x-twitter"
+      url: "https://x.com/data2mom"
