@@ -1,0 +1,13 @@
+main:
+  - title: "Home"
+    url: "/"
+  - title: "Profile"
+    url: "/about/"
+  - title: "Skills"
+    url: "/skills/"
+  - title: "Projects"
+    url: "/projects/"
+  - title: "Portfolio"
+    url: "/portfolio/"
+  - title: "Contact"
+    url: "/contact/"
