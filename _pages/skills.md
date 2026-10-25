@@ -10,6 +10,7 @@ author_profile: true
 
 - 統計検定2級
 - データサイエンティスト検定　リテラシーレベル
+- SnowProCore
 
 ### ビジネス
 
@@ -23,6 +24,11 @@ author_profile: true
 - モデリング：分類 / 回帰 / 時系列 / アンサンブル
 - 特徴量設計：カテゴリエンコーディング、ターゲット統計量、テキスト特徴量、時間帯・曜日特徴など
 - 評価指標：AUC / PR-AUC / RMSE / F1 / Recall など
+
+### データエンジニアリング
+ - pythonによるデータ集計加工
+ - TableauPrep
+ - Snowflakeを使ったデータ基盤構築
 
 ### 自然言語処理（NLP）
 
